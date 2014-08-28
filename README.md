@@ -3,6 +3,8 @@
 
 Платформа для поддержки проведения Дата-экспедиций.
 
+[![Stories in Ready](https://badge.waffle.io/iradche/DataExpedition.png?label=ready&title=Ready)](http://waffle.io/iradche/DataExpedition)
+
 Участие
 -----------
 
